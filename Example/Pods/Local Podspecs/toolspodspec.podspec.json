@@ -1,0 +1,22 @@
+{
+  "name": "toolspodspec",
+  "version": "0.1.0",
+  "summary": "A short description of toolspodspec.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aofeilin/toolspodspec",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aofeilin": "aofeilin@163.com"
+  },
+  "source": {
+    "git": "https://github.com/aofeilin/toolspodspec.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "toolspodspec/Classes/**/*"
+}
